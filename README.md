@@ -6,10 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ubajaj1&label=Profile%20views&color=0e75b6&style=flat" alt="ubajaj1" /> 
 </p>
-<!-- Alternative Trophy Service -->
-<p align="left"> 
-  <a href="https://github.com/ubajaj1">
-    <img src="https://github-profile-trophy.vercel.app/?username=ubajaj1&theme=flat&no-frame=true&margin-w=15" alt="ubajaj1" />
+
 
 <p align="left"> <a href="https://twitter.com/theyoungaidult" target="blank"><img src="https://img.shields.io/twitter/follow/theyoungaidult?logo=twitter&style=for-the-badge" alt="theyoungaidult" /></a> </p>
 
@@ -46,8 +43,5 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ubajaj1&show_icons=true&locale=en" alt="ubajaj1" />
 </p>
-<!-- Alternative Streak Stats -->
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=ubajaj1" alt="ubajaj1" />
-</p>
+
 
