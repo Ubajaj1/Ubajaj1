@@ -25,6 +25,14 @@
 
 - 👨‍💻 All of my projects are available at **[https://ubajaj1.github.io/Work_Portfolio/](https://ubajaj1.github.io/Work_Portfolio/)**
 
+<!-- Use Self-Hosted GitHub Stats (more reliable) -->
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ubajaj1&show_icons=true&locale=en&layout=compact" alt="ubajaj1" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ubajaj1&show_icons=true&locale=en" alt="ubajaj1" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Ubajaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ubajaj1" height="30" width="40" /></a>
