@@ -2,14 +2,6 @@
 
 ### An enthusiastic AI engineer
 
-<!-- Profile Views Counter (working) -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ubajaj1&label=Profile%20views&color=0e75b6&style=flat" alt="ubajaj1" /> 
-</p>
-
-
-<p align="left"> <a href="https://twitter.com/theyoungaidult" target="blank"><img src="https://img.shields.io/twitter/follow/theyoungaidult?logo=twitter&style=for-the-badge" alt="theyoungaidult" /></a> </p>
-
 - 🔭 I'm currently working on - a) AI calorie tracker without bias on western cuisine 
                                 b) Sustainable AI engineering methods
 
