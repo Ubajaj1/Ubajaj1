@@ -2,9 +2,14 @@
 
 ### An enthusiastic AI engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ubajaj1&label=Profile views&color=0e75b6&style=flat" alt="Ubajaj1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ubajaj1" alt="Ubajaj1" /></a> </p>
+<!-- Profile Views Counter (working) -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ubajaj1&label=Profile%20views&color=0e75b6&style=flat" alt="ubajaj1" /> 
+</p>
+<!-- Alternative Trophy Service -->
+<p align="left"> 
+  <a href="https://github.com/ubajaj1">
+    <img src="https://github-profile-trophy.vercel.app/?username=ubajaj1&theme=flat&no-frame=true&margin-w=15" alt="ubajaj1" />
 
 <p align="left"> <a href="https://twitter.com/theyoungaidult" target="blank"><img src="https://img.shields.io/twitter/follow/theyoungaidult?logo=twitter&style=for-the-badge" alt="theyoungaidult" /></a> </p>
 
