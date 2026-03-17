@@ -2,8 +2,8 @@
 
 ### An enthusiastic AI engineer
 
-- 🔭 I'm currently working on - a) AI calorie tracker without bias on western cuisine 
-                                b) Sustainable AI engineering methods
+- 🔭 I'm currently working on - a) Sustainable AI engineering methods
+                                b) Agentic Orchestration Frameworks
 
 - I'm currently learning **Advanced Deep Learning**
 
