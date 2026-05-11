@@ -13,8 +13,6 @@
 
 - Reach me **https://www.linkedin.com/in/utkarsh-bajaj/**
 
-- Fun fact - I write jokes on X
-
 - 👨‍💻 All of my projects are available at **[https://ubajaj1.github.io/Work_Portfolio/](https://ubajaj1.github.io/Work_Portfolio/)**
 
 <!-- Profile Views Counter (working) -->
